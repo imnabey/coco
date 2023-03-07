@@ -1,9 +1,9 @@
 import React from "react";
-import { FaTwitter } from "@react-icons/all-files/fa/FaTwitter";
-import { FaLinkedin } from "@react-icons/all-files/fa/FaLinkedin";
-import { FaFacebook } from "@react-icons/all-files/fa/FaFacebook";
-import { FaInstagram } from "@react-icons/all-files/fa/FaInstagram";
-import { FaPhoneAlt } from "@react-icons/all-files/fa/FaPhoneAlt";
+// import { FaTwitter } from "@react-icons/all-files/fa/FaTwitter";
+// import { FaLinkedin } from "@react-icons/all-files/fa/FaLinkedin";
+// import { FaFacebook } from "@react-icons/all-files/fa/FaFacebook";
+// import { FaInstagram } from "@react-icons/all-files/fa/FaInstagram";
+// import { FaPhoneAlt } from "@react-icons/all-files/fa/FaPhoneAlt";
 // import { MdEmail } from '@react-icons/all-files/Md/MdEmail';
 function Footer() {
   return (
@@ -23,7 +23,7 @@ function Footer() {
                 className=" text-gray-500 hover:text-orange-500 font-base h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 hover:animate-bounce"
                 type="button"
               >
-                <FaTwitter size={24} />
+                {/* <FaTwitter size={24} /> */}
               </button>
             </a>
             <a
@@ -35,7 +35,7 @@ function Footer() {
                 className=" text-gray-500 hover:text-orange-500 font-base h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 hover:animate-bounce"
                 type="button"
               >
-                <FaLinkedin size={24} />
+                {/* <FaLinkedin size={24} /> */}
               </button>
             </a>
             <a
@@ -47,7 +47,7 @@ function Footer() {
                 className=" text-gray-500 hover:text-orange-500 font-base h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 hover:animate-bounce"
                 type="button"
               >
-                <FaFacebook size={24} />
+                {/* <FaFacebook size={24} /> */}
               </button>
             </a>
             <a
@@ -59,7 +59,7 @@ function Footer() {
                 className=" text-gray-500 hover:text-orange-500 font-base h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 hover:animate-bounce"
                 type="button"
               >
-                <FaInstagram size={24} />
+                {/* <FaInstagram size={24} /> */}
               </button>
             </a>
           </div>
@@ -76,7 +76,7 @@ function Footer() {
           </h3>
 
           <h3 className="text-gray-500 flex items-center  ">
-            <FaPhoneAlt size={20} className="mr-2" />
+            {/* <FaPhoneAlt size={20} className="mr-2" /> */}
             (+62) 81-1203-0108
           </h3>
         </div>
